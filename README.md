@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Je suis un jeune passionné d'informatique actuellement en formation chez Simplon Valenciennes pour devenir Concepteur Développeur d'Applications (diplôme de niveau 6). Dans le cadre de cette formation, je suis à la recherche d'un stage de 3 mois (non rémunéré) du 13 mai 2024 au 06 août 2024. 
+Je suis un jeune passionné d'informatique actuellement en formation chez Simplon Valenciennes pour devenir Concepteur Développeur d'Applications (diplôme de niveau 6).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoan-bor) 
 
