@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Je suis un jeune passionné d'informatique actuellement en formation chez Simplon Valenciennes pour devenir Concepteur Développeur d'Applications (diplôme de niveau 6).
+Je suis un jeune passionné d'informatique actuellement en diplômé en tant que Concepteur Développeur d'Applications (diplôme de niveau 6).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoan-bor) 
 
